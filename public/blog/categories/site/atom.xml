@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[日本極真道 横浜道場 - Nippon Kyokushindo Yokohama Dojo]]></title>
-  <link href="http://nipponkyokushindo.herokuapp.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: site | 日本極真道 横浜道場 - Nippon Kyokushindo Yokohama Dojo]]></title>
+  <link href="http://nipponkyokushindo.herokuapp.com/blog/categories/site/atom.xml" rel="self"/>
   <link href="http://nipponkyokushindo.herokuapp.com/"/>
   <updated>2013-05-21T08:31:51+09:00</updated>
   <id>http://nipponkyokushindo.herokuapp.com/</id>
